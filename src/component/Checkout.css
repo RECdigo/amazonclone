@@ -1,0 +1,45 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;    
+}
+
+.checkout_ad{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;    
+}
+
+.checkout_right {
+    margin-left: 20px;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 768px) {
+    .checkout {
+        flex-direction: column; 
+    }
+
+   
+    .checkout_ad {
+        width: 100%; 
+    }
+
+    .checkout_title {
+        margin-right: 0; 
+        padding: 5px; 
+    }
+
+    .checkout_right {
+        margin-left: 0; 
+        width: 100%; 
+        border-top: 1px solid lightgray;
+    }
+}

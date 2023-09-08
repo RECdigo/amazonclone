@@ -1,0 +1,26 @@
+  .carousel-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #f0f0f0;
+    overflow: hidden;     
+  }  
+ 
+  .carousel-slide img {
+    max-width: 100%; 
+    max-height: 100%; 
+    object-fit: cover;    
+  }
+
+  .carousel{
+    margin-bottom: -250px;
+  }
+
+  @media (max-width: 768px) {
+
+  .carousel {
+    display: none;
+  }
+  
+}
