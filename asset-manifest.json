@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amazonclone/static/css/main.45268fe7.css",
-    "main.js": "/amazonclone/static/js/main.46e35460.js",
+    "main.js": "/amazonclone/static/js/main.4a1ca79e.js",
     "static/js/787.c075ba41.chunk.js": "/amazonclone/static/js/787.c075ba41.chunk.js",
     "static/media/productSix_TV.jpg": "/amazonclone/static/media/productSix_TV.062303ccd650faeee695.jpg",
     "static/media/homeOne.jpg": "/amazonclone/static/media/homeOne.11c0a9eb1de01134a56a.jpg",
@@ -16,11 +16,11 @@
     "static/media/productThree_tshirt.jpg": "/amazonclone/static/media/productThree_tshirt.d109e178ba07e4863f6a.jpg",
     "index.html": "/amazonclone/index.html",
     "main.45268fe7.css.map": "/amazonclone/static/css/main.45268fe7.css.map",
-    "main.46e35460.js.map": "/amazonclone/static/js/main.46e35460.js.map",
+    "main.4a1ca79e.js.map": "/amazonclone/static/js/main.4a1ca79e.js.map",
     "787.c075ba41.chunk.js.map": "/amazonclone/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45268fe7.css",
-    "static/js/main.46e35460.js"
+    "static/js/main.4a1ca79e.js"
   ]
 }
