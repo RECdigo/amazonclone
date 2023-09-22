@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amazonclone/static/css/main.45268fe7.css",
+    "main.js": "/amazonclone/static/js/main.46e35460.js",
+    "static/js/787.c075ba41.chunk.js": "/amazonclone/static/js/787.c075ba41.chunk.js",
+    "static/media/productSix_TV.jpg": "/amazonclone/static/media/productSix_TV.062303ccd650faeee695.jpg",
+    "static/media/homeOne.jpg": "/amazonclone/static/media/homeOne.11c0a9eb1de01134a56a.jpg",
+    "static/media/productFive_gress.jpg": "/amazonclone/static/media/productFive_gress.b8f5cae6150e6f03d897.jpg",
+    "static/media/homeTwo.jpg": "/amazonclone/static/media/homeTwo.4d36865f92d63b2519a7.jpg",
+    "static/media/checkout_One.jpg": "/amazonclone/static/media/checkout_One.9ebe3a6a0151af872a4b.jpg",
+    "static/media/homeThree.jpg": "/amazonclone/static/media/homeThree.225aaef918f59e5de14a.jpg",
+    "static/media/productTwo_whatch.jpg": "/amazonclone/static/media/productTwo_whatch.dded630d4f4b75590147.jpg",
+    "static/media/logo_white_One.png": "/amazonclone/static/media/logo_white_One.e539b6fab7b25c53c1f7.png",
+    "static/media/productFour_book.jpg": "/amazonclone/static/media/productFour_book.f9f2b204abcfa087617e.jpg",
+    "static/media/productOne_chair.jpg": "/amazonclone/static/media/productOne_chair.901fe8f8aa444d1734b8.jpg",
+    "static/media/productThree_tshirt.jpg": "/amazonclone/static/media/productThree_tshirt.d109e178ba07e4863f6a.jpg",
+    "index.html": "/amazonclone/index.html",
+    "main.45268fe7.css.map": "/amazonclone/static/css/main.45268fe7.css.map",
+    "main.46e35460.js.map": "/amazonclone/static/js/main.46e35460.js.map",
+    "787.c075ba41.chunk.js.map": "/amazonclone/static/js/787.c075ba41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45268fe7.css",
+    "static/js/main.46e35460.js"
+  ]
+}
